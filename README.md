@@ -1,5 +1,3 @@
-Here’s a sample `README.md` file tailored to your Jenkins pipeline and Terraform infrastructure setup.
-
 ```markdown
 # DevOps Project 1 - Terraform Infrastructure Automation
 
@@ -86,4 +84,3 @@ terraform destroy -auto-approve
 - **Best Practices**: Make sure to store sensitive information such as AWS credentials in secure credential stores (e.g., Jenkins Credentials) rather than in plain text.
 ```
 
-This `README.md` provides a comprehensive overview of your Jenkins pipeline and Terraform project setup. You can modify the instructions or content if needed to better match the specifics of your project.
